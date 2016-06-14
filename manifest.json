@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+
+    "name": "Invitify",
+    "description": "A Google Chrome extension to invite all your Facebook friends to like any Facebook page",
+    "version": "1.0.0",
+
+    "browser_action": {
+        "default_icon": "images/icon.png",
+        "default_title": "Invite Friends"
+    },
+
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["https://www.facebook.com/*"],
+            "js": ["content.js"]
+        }
+    ],
+
+    "permissions": [
+        "activeTab"
+    ]
+}
