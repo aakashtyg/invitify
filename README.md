@@ -16,7 +16,7 @@ A chrome extension to invite all your Facebook friends to like any Facebook page
 * Great, all your friends from your friends list have been invited to like the page!
 
 ### <a name="demo"></a>Demo
-* [![Watch Demo Here](http://i.imgur.com/Vpa9zkG.png?1)](https://www.youtube.com/watch?v=HaYdWIWFZ-k "Watch Demo Here")
+[![Watch Demo Here](http://i.imgur.com/Vpa9zkG.png?1)](https://www.youtube.com/watch?v=HaYdWIWFZ-k "Watch Demo Here")
 
 ### <a name="quick-start"></a>Quick start
 * Clone the repo: ```git clone https://github.com/aakash-cr7/invitify.git```.
