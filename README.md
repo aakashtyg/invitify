@@ -1,6 +1,8 @@
 # [Invitify](http://aakash-cr7.github.io/invitify/)
 A chrome extension to invite all your Facebook friends to like any Facebook page.
 
+![DemoGIF](http://i.imgur.com/eqYkWdB.gif?1)
+
 ### Table of contents
 * [How it works](#how-it-works)
 * [Demo](#demo)
