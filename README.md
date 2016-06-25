@@ -1,5 +1,5 @@
 # [Invitify](http://aakash-cr7.github.io/invitify/)
-A chrome extension to invite all your Facebook friends to like any Facebook page.
+A chrome extension to invite all your Facebook friends to like any Facebook page. Get it now on [Google Chrome Store](https://chrome.google.com/webstore/detail/invitify/boldhogipkbpcaleacilidonmlchcnbh).
 
 ![DemoGIF](http://i.imgur.com/eqYkWdB.gif?1)
 
@@ -8,6 +8,7 @@ A chrome extension to invite all your Facebook friends to like any Facebook page
 * [Demo](#demo)
 * [Quick start](#quick-start)
 * [Change log](#change-log)
+* [Contributing](#contributing)
 
 ### <a name="how-it-works"></a>How it works
 * Install the chrome extension from the [Google Chrome Store](https://chrome.google.com/webstore/detail/invitify/boldhogipkbpcaleacilidonmlchcnbh).
@@ -32,3 +33,6 @@ A chrome extension to invite all your Facebook friends to like any Facebook page
 **v1.0.0: 14 June 2016 (Latest)**
 
 * This is the latest version.
+
+### <a name="contributing"></a>Contributing
+* I'd love for people to get involved in the development of this extension, so please do create issues and pull requests.
