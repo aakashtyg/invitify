@@ -17,6 +17,7 @@ A chrome extension to invite all your Facebook friends to like any Facebook page
 * Now click the extension button (located beside the address bar).
 * Wait for a few seconds.
 * Great, all your friends from your friends list have been invited to like the page!
+* **NOTE:** Make sure that the url of the page is https://www.facebook.com/somePage.
 
 ### <a name="demo"></a>Demo
 [![Watch Demo Here](http://i.imgur.com/Vpa9zkG.png?1)](https://www.youtube.com/watch?v=HaYdWIWFZ-k "Watch Demo Here")
